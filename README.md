@@ -51,3 +51,6 @@ cross-registration.ipynb --> match and merge units across sessions
 checking.m --> plot traces and light intensity to validate the results
 
 app2.mlapp --> displays synchronized traces and video
+
+playing.m --> basic plotting examples
+
